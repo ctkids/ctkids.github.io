@@ -18,7 +18,7 @@ layout: default
     <!-- Categories -->
     <div class="categories">
       {% unless page.categories == empty %}
-        Posted in:
+        类别:
         <ul class="categories-list">
           {% assign categories_list = page.categories %}
           {% if categories_list.first[0] == null %}
@@ -46,7 +46,7 @@ layout: default
 
   <div class="tags">
     {% unless page.tags == empty %}
-      Tagged with:
+      标签:
       <ul class="list-inline">
         {% assign tags_list = page.tags %}
         {% if tags_list.first[0] == null %}
@@ -133,17 +133,17 @@ layout: default
   <div class="mdl-grid pagination">
     <div class="mdl-cell mdl-cell--6-col previous">
       {% if page.previous %}
-        <a class="mdl-button mdl-button--primary" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous Post</a>
+        <a class="mdl-button mdl-button--primary" href="{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; 前一篇</a>
       {% else %}
-        <a class="mdl-button mdl-button--primary" disabled>&larr; Previous Post</a>
+        <a class="mdl-button mdl-button--primary" disabled>&larr; 前一篇</a>
       {% endif %}
     </div>
 
     <div class="mdl-cell mdl-cell--6-col next">
       {% if page.next %}
-        <a class="mdl-button mdl-button--primary" href="{{ page.next.url }}" title="{{ page.next.title }}">Next Post &rarr;</a>
+        <a class="mdl-button mdl-button--primary" href="{{ page.next.url }}" title="{{ page.next.title }}">后一篇 &rarr;</a>
       {% else %}
-        <a class="mdl-button mdl-button--primary" disabled>Next Post &rarr;</a>
+        <a class="mdl-button mdl-button--primary" disabled>后一篇 &rarr;</a>
       {% endif %}
     </div>
   </div>
