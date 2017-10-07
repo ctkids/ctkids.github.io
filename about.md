@@ -5,7 +5,7 @@ permalink: /about/
 icon: info_outline
 ---
 
-![演讲](assets/public_speech.jpg)
+# ![演讲](assets/public_speech.jpg)
 
 批判性思考，也就是严谨的逻辑思维训练，对小朋友的成长很重要。
 
