@@ -1,12 +1,18 @@
 ---
 layout: page
-title: About
+title: 关于我们
 permalink: /about/
 icon: info_outline
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+批判性思考，既严谨的逻辑思维训练，对小朋友的成长很重要。
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+可惜针对小朋友的批判性思考的教育材料非常少。
+
+
+我们在这个网站，收集、整理、分享、宣传相关的教育材料，帮助小朋友的成长。
+
+
+孙立
+孙若林
