@@ -1,7 +1,8 @@
 # Site settings
-title: Paper Theme
+title: 能言善辩小帖士 | 小朋友学习批判性思考
 description: > # this means to ignore newlines until "baseurl:"
-  A gentle theme for Jekyll utilising material design.
+  Critical Thinking for Kids 
+  小朋友学习批判性思考的最佳网站
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://ctkids.github.io/" # the base hostname & protocol for your site you most probably don't need to set it
 
@@ -17,9 +18,9 @@ disqus: # add disqus shortname here
 
 # author info
 # add your appropriate info here
-author: # your name
+author: 孙立，孙若林 # your name
 bio:    # your bio
-email:
+email: mr.sun.li@outlook.com
 email_md5: # md5 hash of your email
 twitter_username:
 github_username:
