@@ -19,7 +19,7 @@ layout: default
         <h1>{{ post.title }}</h1>
       </div>
       {{ post.content | truncatewords:50}}
-      <a class="mdl-button mdl-button--accent" href="{{ post.url | replace_first: '/', '' | prepend: site.baseurl | prepend: site.url }}">阅读</a>
+      <a class="mdl-button mdl-button--accent" href="{{ post.url | replace_first: '/', '' | prepend: site.baseurl | prepend: site.url }}">深入阅读</a>
     </div>
   {% endfor %}
 
