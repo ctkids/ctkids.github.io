@@ -27,7 +27,7 @@ github_username:
 
 # Theming options
 # These settings are mandatory.
-theme:              'blue-pink'
+# theme:              'blue-pink'  // https://github.com/dbtek/paper/issues/5
 # drawer theming
 drawer:
   text_color:       'grey-600'
