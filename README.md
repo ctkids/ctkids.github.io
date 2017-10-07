@@ -1,42 +1,12 @@
-# Paper for Jekyll
-A new material design utilising theme for your Jekyll blog. Built on [Material Design Lite](http://www.getmdl.io/).
+# 能言善辩小帖士
 
-![screenshot](assets/screenshots/mockup.jpg)
+批判性思考，也就是严谨的逻辑思维训练，对小朋友的成长很重要。
 
-## Demo
- [dbtek.github.io/paper-demo](http://dbtek.github.io/paper-demo)
 
-### Batteries Included
-There are many cool features bundled with Paper such as:
+可惜针对小朋友的批判性思考的教育材料非常少。
 
-- Full Github Pages support.
-- Responsive layout.
-- Dynamic search with [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search/).
-- Customizable theme colors.
-- Sass variables.
-- RSS feed.
-- Post tags and categories.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
 
-### Tech
-Under the hood Paper contains:  
-- Material Design Lite.
-- CoffeeScript.
-- Sass.
+我们在这个网站，收集、整理、分享、宣传相关的教育材料，帮助小朋友的成长。
 
-### Install
-Easiest way of getting Paper work is forking.
 
-- Fork the [repo](https://github.com/dbtek/paper).
-- Rename forked repo as `username.github.io`.
-- Set up blog by editing `_config.yml`.
-- Enjoy.
-
-### Author
-Ismail Demirbilek
-[@dbtek](https://twitter.com/dbtek)
-
-### License
-[MIT](http://opensource.org/licenses/MIT)
+孙立，孙若林
